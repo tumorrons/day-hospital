@@ -1,0 +1,1 @@
+# App.jsx placeholder - verrà sostituito manualmente se richiesto in seguito.
